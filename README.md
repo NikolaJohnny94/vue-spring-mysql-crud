@@ -12,7 +12,7 @@
 ### Note
 
 ```
-In the ./backend/Other Sources/src/main/resources/application.properties file add your MySQL DB uri, username and password 🔗🧔🔐
+In the ./backend/src/main/resources/application.properties file add your MySQL DB uri, username and password 🔗🧔🔐
 ```
 
 ## Project setup - Front-End
